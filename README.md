@@ -1,4 +1,4 @@
-# Miniguia de Estudos: Explorando Vulnerabilidades e Operações Ofensivas em IA
+# Miniguia de Estudos: Explorando Vulnerabilidades e Operações Ofensivas em sistemas corporativos de IA.
 
 **Bottom Line Up Front (BLUF):** A adoção corporativa de ferramentas de Inteligência Artificial (IA) exige uma mudança operacional na cibersegurança. Diferente da infraestrutura de TI tradicional, a segurança em IA foca no comportamento dinâmico dos modelos. Este documento avalia vulnerabilidades críticas em sistemas de IA e fornece metodologias de testes ofensivos para identificar falhas em Agentes Autônomos, dutos RAG (Retrieval-Augmented Generation), Inversão de Embeddings e Cadeia de Suprimentos.
 
